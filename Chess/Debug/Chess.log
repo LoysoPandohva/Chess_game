@@ -1,0 +1,33 @@
+﻿  Chess.cpp
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\piece.h(180): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\piece.h(200): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\piece.h(214): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chessboard.h(72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pieces_on_board.h(59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\pawn.h(134): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(82): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(158): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(536): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\main.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\main.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\chess.cpp(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(320): warning C4715: Interactive::y_alignment_in_the_squere: значение возвращается не при всех путях выполнения
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(303): warning C4715: Interactive::x_alignment_in_the_squere: значение возвращается не при всех путях выполнения
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\mause_control.h(36): warning C4715: Mause_control::get_y_position: значение возвращается не при всех путях выполнения
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\mause_control.h(25): warning C4715: Mause_control::get_x_position: значение возвращается не при всех путях выполнения
+c:\users\dns\desktop\джуффин\5 семестр\курсач\chess\chess\interactive.h(354): warning C4715: Interactive::error_eat: значение возвращается не при всех путях выполнения
+  Chess.vcxproj -> C:\Users\DNS\Desktop\Джуффин\5 семестр\Курсач\Chess\Debug\Chess.exe
